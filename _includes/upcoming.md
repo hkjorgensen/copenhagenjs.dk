@@ -1,4 +1,5 @@
 <div class="upcoming-meetings">
+
 	<h3>Upcoming meetups</h3>
   <p>We meet every third Thursday of the month at 19:00.</p>
 
